@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":2,"characterName":"Actor2","classId":1,"equips":[1,1,2,3,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Thomys Basa","nickname":"Thomys Basa","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Polyphemus","nickname":"Polyphemus","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Anna Reece","nickname":"Anna Reece","note":"","profile":""}
+]
